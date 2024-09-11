@@ -1,0 +1,288 @@
+Uri: https://cdn.discordapp.com/icons/1016689494084296704/a_941b799d32a835c5ded55a16d22a0695.gif
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\1016689494084296704\a_941b799d32a835c5ded55a16d22a0695.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/icons/1123752084962025473/42f52e37b86e931b551c88b4bf67533b.webp
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\1123752084962025473\42f52e37b86e931b551c88b4bf67533b.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/icons/1158783716689191053/a_6f2d259db5dfe157f2cbec894b7b0ecb.gif
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\1158783716689191053\a_6f2d259db5dfe157f2cbec894b7b0ecb.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/icons/608007918066860057/638a479fbb7801fd2742e0dafef3b536.webp
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\608007918066860057\638a479fbb7801fd2742e0dafef3b536.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/icons/756920107980161145/3ba82d9df8aeece924a14c0bd8864555.webp
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\756920107980161145\3ba82d9df8aeece924a14c0bd8864555.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/icons/836685448256552980/9fb7ee9f7e14844565850d26c03c2b18.webp
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\836685448256552980\9fb7ee9f7e14844565850d26c03c2b18.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/icons/889874030922985583/c89f75edf6e115bef7290e8fec4f51df.webp
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\889874030922985583\c89f75edf6e115bef7290e8fec4f51df.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/icons/987072632409186304/a_ec17c157e5a2bae7c46625f4b6aef9c8.gif
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\icons\987072632409186304\a_ec17c157e5a2bae7c46625f4b6aef9c8.gif
+Content Type: image/gif
+
+Uri: https://em-content.zobj.net/source/joypixels/394/ballot-box-with-ballot_1f5f3-fe0f.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\source\joypixels\394\ballot-box-with-ballot_1f5f3-fe0f.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8173537250013768
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\pagead\js\f-1.txt
+Content Type: text/javascript
+
+Uri: https://simsek.biz.tr/
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\index-1.htm
+Content Type: text/html
+
+Uri: https://simsek.biz.tr/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/destek
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\destek.html
+Content Type: text/html
+
+Uri: https://simsek.biz.tr/durum
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\durum.html
+Content Type: text/html
+
+Uri: https://simsek.biz.tr/ekle
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\ekle.html
+Content Type: text/html
+
+Uri: https://simsek.biz.tr/komutlar
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\komutlar-1.html
+Content Type: text/html
+
+Uri: https://simsek.biz.tr/oyla
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\oyla.html
+Content Type: text/html
+
+Uri: https://simsek.biz.tr/public/css/demo.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\css\demo-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/img/favicon/favicon.ico
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\favicon\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://simsek.biz.tr/public/img/favicon/favicon.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\favicon\favicon.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/backgrounds/cta-bg-light.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\backgrounds\cta-bg-light.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/backgrounds/footer-bg-light.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\backgrounds\footer-bg-light.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/backgrounds/hero-bg.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\backgrounds\hero-bg.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/branding/onembilisim.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\branding\onembilisim.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/landing-page/balik.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\landing-page\balik.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/landing-page/cekilis.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\landing-page\cekilis.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/landing-page/destek.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\landing-page\destek.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/landing-page/oynat.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\landing-page\oynat.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/front-pages/landing-page/seviye.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\front-pages\landing-page\seviye.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/img/icons/misc/search.png
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\img\icons\misc\search.png
+Content Type: image/png
+
+Uri: https://simsek.biz.tr/public/js/config.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\js\config.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/js/front-config.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\js\front-config.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/js/front-main.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\js\front-main.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/js/front-page-landing.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\js\front-page-landing.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/js/ui-carousel.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\js\ui-carousel.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/manifest/manifest.json
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\manifest\manifest-1.json
+Content Type: application/json
+
+Uri: https://simsek.biz.tr/public/vendor/css/pages/front-page-landing.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\css\pages\front-page-landing-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/css/pages/front-page-pricing.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\css\pages\front-page-pricing.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/css/pages/front-page.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\css\pages\front-page-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/css/pages/ui-carousel.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\css\pages\ui-carousel-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/css/rtl/core-dark.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\css\rtl\core-dark-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/css/rtl/theme-default-dark.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\css\rtl\theme-default-dark-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/fonts/boxicons.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\fonts\boxicons-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/fonts/boxicons/boxicons.eot
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\fonts\boxicons\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://simsek.biz.tr/public/vendor/fonts/boxicons/boxicons.svg?
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\fonts\boxicons\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://simsek.biz.tr/public/vendor/fonts/boxicons/boxicons.ttf
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\fonts\boxicons\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://simsek.biz.tr/public/vendor/fonts/boxicons/boxicons.woff
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\fonts\boxicons\boxicons.woff
+Content Type: font/woff
+
+Uri: https://simsek.biz.tr/public/vendor/fonts/boxicons/boxicons.woff2
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\fonts\boxicons\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://simsek.biz.tr/public/vendor/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/js/helpers.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\js\helpers.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/js/template-customizer.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\js\template-customizer.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/libs/chartjs/chartjs.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\chartjs\chartjs.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/libs/jquery/jquery.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/libs/nouislider/nouislider.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\nouislider\nouislider-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/libs/nouislider/nouislider.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\nouislider\nouislider.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/libs/popper/popper.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\popper\popper.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/libs/select2/select2.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\select2\select2.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/libs/select2/select2.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\select2\select2.js
+Content Type: application/javascript
+
+Uri: https://simsek.biz.tr/public/vendor/libs/swiper/swiper.css
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\swiper\swiper-1.css
+Content Type: text/css
+
+Uri: https://simsek.biz.tr/public/vendor/libs/swiper/swiper.js
+File Name: C:\Downloaded Web Sites\simsek.biz.tr\public\vendor\libs\swiper\swiper.js
+Content Type: application/javascript
+
